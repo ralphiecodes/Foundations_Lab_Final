@@ -14,5 +14,24 @@ Red Canary. (n.d.). What is threat hunting? Red Canary. Retrieved February 23, 2
 
 Foundations_Lab_Final
 
+Security Philosophy
+
+In my lab environment, confidentiality is maintained through SSH access to the Ubuntu Virtual Machine, ensuring that data transmitted between my local machine and the server is encrypted and protected from unauthorized access. 
+
+Virtualization and isolation provided by VMware allow the Ubuntu server to run independently of my host system, creating a secure sandbox that doesn't allow outside access and reduces the risk of leaking my data.
+
+Integrity is supported by version control through GitHub, which tracks changes to files and provides a history to detect unauthorized modifications.
+
+Availability is ensured by running the virtual machine in a controlled environment.
+
+This in all creates the CIA Triad.
+
+2 Sources
+
+Red Hat. (n.d.). Security overview (Section 1.1.4). In Red Hat Enterprise Linux Security Guide. Red Hat Documentation. https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/4/html/security_guide/ch-sgs-ov
+ — Defines confidentiality, integrity, and availability as standard information security principles in the widely referenced Red Hat Enterprise Linux guide.
+
+National Center for Biotechnology Information. (2019). Protecting information with cybersecurity. In Computers and Security (review article). https://pmc.ncbi.nlm.nih.gov/articles/PMC7122347/
+ — Provides authoritative definitions for confidentiality, integrity, and availability as core security concerns in cybersecurity literature.
 
 
