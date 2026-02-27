@@ -1,4 +1,4 @@
-**Ralphie's Read Me**
+###Ralphie's Read Me
 #Foundations Final
 
 I am a results-driven cybersecurity and automation professional with hands-on experience delivering enterprise-scale technical support, system automation, and endpoint monitoring solutions in complex environments. Currently serving as an Automation Engineer supporting thousands of users, I specialize in PowerShell and Python automation, incident response integration, and infrastructure troubleshooting to reduce downtime and improve operational efficiency. 
@@ -12,3 +12,4 @@ Threat hunting
 Red Canary. (n.d.). What is threat hunting? Red Canary. Retrieved February 23, 2026, from https://redcanary.com/cybersecurity-101/threats/what-is-threat-hunting/
 
 Foundations_Lab_Final
+
